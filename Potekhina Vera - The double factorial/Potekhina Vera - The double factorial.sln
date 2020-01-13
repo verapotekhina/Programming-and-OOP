@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Potekhina Vera - The double factorial", "Potekhina Vera - The double factorial\Potekhina Vera - The double factorial.vcxproj", "{C45F58CC-2154-4518-A886-51824B42BF90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C45F58CC-2154-4518-A886-51824B42BF90}.Debug|x64.ActiveCfg = Debug|x64
+		{C45F58CC-2154-4518-A886-51824B42BF90}.Debug|x64.Build.0 = Debug|x64
+		{C45F58CC-2154-4518-A886-51824B42BF90}.Debug|x86.ActiveCfg = Debug|Win32
+		{C45F58CC-2154-4518-A886-51824B42BF90}.Debug|x86.Build.0 = Debug|Win32
+		{C45F58CC-2154-4518-A886-51824B42BF90}.Release|x64.ActiveCfg = Release|x64
+		{C45F58CC-2154-4518-A886-51824B42BF90}.Release|x64.Build.0 = Release|x64
+		{C45F58CC-2154-4518-A886-51824B42BF90}.Release|x86.ActiveCfg = Release|Win32
+		{C45F58CC-2154-4518-A886-51824B42BF90}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78513AD7-608D-4930-96D5-ABAA1D6B2A9B}
+	EndGlobalSection
+EndGlobal
